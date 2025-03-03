@@ -30,7 +30,8 @@ SWRI_palettes <- list(
   `blues` = SWRI_colours("teal", "SWRI purple", "purple grey", "light blue"),
   `pastel` = SWRI_colours("purple grey", "grey", "light blue", "light pink"),
   `bold` = SWRI_colours("SWRI pink", "orange", "yellow", "teal", "SWRI purple"),
-  `bicolour` = SWRI_colours("SWRI pink", "SWRI purple")
+  `bicolour` = SWRI_colours("SWRI pink", "SWRI purple"),
+  `sunset` = SWRI_colours("SWRI purple", "SWRI pink", "orange", "yellow")
 )
 
 #' SWRI_pal function
