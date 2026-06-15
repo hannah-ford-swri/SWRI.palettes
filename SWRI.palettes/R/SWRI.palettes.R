@@ -40,7 +40,7 @@ SWRI_palettes <- list(
   `pastel` = SWRI_colours("purple grey", "light blue", "light pink"),
   `bold` = SWRI_colours("SWRI pink", "orange", "yellow", "teal", "SWRI purple"),
   `bicolour` = SWRI_colours("SWRI pink", "SWRI purple"),
-  `sunset` = SWRI_colours("SWRI purple", "SWRI pink", "orange", "yellow"),
+  `sunset` = SWRI_colours("SWRI purple", "mid purple", "SWRI pink", "orange", "yellow"),
   `tricolour` = SWRI_colours("SWRI pink", "white", "SWRI purple"),
   `stability` = SWRI_colours("SWRI purple", "light blue", "amber", "SWRI pink"),
   `pale bold` = SWRI_colours("pale pink", "pale orange", "pale yellow", "pale teal", "pale purple"),
