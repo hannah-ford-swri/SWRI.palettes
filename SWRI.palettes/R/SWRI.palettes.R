@@ -39,7 +39,7 @@ SWRI_colours <- function(...){
 
 SWRI_palettes <- list(
   `warm` = SWRI_colours("light pink", "SWRI pink", "orange", "yellow"),
-  `blues` = SWRI_colours("teal", "SWRI purple", "deep blue", "light blue"),
+  `blues` = SWRI_colours("teal", "SWRI purple", "deep blue"),
   `pastel` = SWRI_colours("purple grey", "light blue", "light pink"),
   `bold` = SWRI_colours("SWRI pink", "orange", "yellow", "dark teal", "deep blue", "SWRI purple"),
   `bicolour` = SWRI_colours("SWRI pink", "SWRI purple"),
