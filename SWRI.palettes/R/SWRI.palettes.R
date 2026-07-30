@@ -19,7 +19,10 @@ SWRI_cols <- c(`SWRI pink` = "#f4546c",
                `mid purple` = "#B56392",
                `deep blue` = "#3385b3",
                `blue` = "#6aaed4",
-               `teal` = "#69c2b8")
+               `teal` = "#69c2b8",
+               `blue teal` = "#278b9a",
+               `terracotta` = "#ec875c",
+               `beige` = "#e8c4a2")
 
 #' SWRI_colours function
 #'
@@ -48,7 +51,27 @@ SWRI_palettes <- list(
   `stability` = SWRI_colours("SWRI purple", "light blue", "amber", "SWRI pink"),
   `pale bold` = SWRI_colours("pale pink", "pale orange", "pale yellow", "pale teal", "light blue", "pale purple"),
   `stability2` = SWRI_colours("SWRI purple", "mid purple", "SWRI pink", "dark yellow"),
-  `candy` = SWRI_colours("amber", "SWRI pink", "SWRI purple", "pale purple")
+  `candy` = SWRI_colours("amber", "SWRI pink", "SWRI purple", "pale purple"),
+  `festival` = SWRI_colours("purple grey", "deep blue", "SWRI pink", "dark yellow"),
+  `blossom` = SWRI_colours("SWRI pink", "orange", "yellow", "teal"),
+  `fjord` = SWRI_colours("deep blue", "dark teal", "purple grey", "light grey"),
+  `fruit` = SWRI_colours("orange", "SWRI pink", "SWRI purple", "dark teal"),
+  `meadow` = SWRI_colours("dark teal", "yellow", "mid purple", "blue"),
+  `orchard` = SWRI_colours("mid purple", "SWRI pink", "amber", "dark teal"),
+  `harbour` = SWRI_colours("purple grey", "deep blue", "dark teal", "yellow"),
+  `skittles` = SWRI_colours("SWRI pink", "yellow", "dark teal", "deep blue", "mid purple"),
+  `ponyo` = SWRI_colours("light grey", "blue teal", "SWRI pink", "terracotta", "dark yellow", "beige"),
+  `canyon` = SWRI_colours("terracotta", "dark yellow", "beige", "purple grey"),
+  `lagoon` = SWRI_colours("blue teal", "teal", "light blue", "SWRI purple"),
+  `tropic` = SWRI_colours("terracotta", "SWRI pink", "deep blue", "amber"),
+  `pebble` = SWRI_colours("beige", "purple grey", "blue teal"),
+  `summer` = SWRI_colours("deep blue", "yellow", "terracotta"),
+  `prairie` = SWRI_colours("beige", "dark yellow", "dark teal", "mid purple"),
+  `drift` = SWRI_colours("purple grey", "blue teal", "beige", "light grey"),
+  `apple` = SWRI_colours("SWRI pink", "terracotta", "dark teal", "yellow"),
+  `mosaic` = SWRI_colours("mid purple", "blue teal", "dark yellow", "terracotta", "beige"),
+  `solstice` = SWRI_colours("terracotta", "amber", "yellow", "blue teal", "SWRI purple"),
+  `fern` = SWRI_colours("blue teal", "dark teal", "pale teal", "beige")
 )
 
 #' SWRI_pal function
