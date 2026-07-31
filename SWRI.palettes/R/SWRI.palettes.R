@@ -71,7 +71,8 @@ SWRI_palettes <- list(
   `apple` = SWRI_colours("SWRI pink", "terracotta", "dark teal", "yellow"),
   `mosaic` = SWRI_colours("mid purple", "blue teal", "dark yellow", "terracotta", "beige"),
   `solstice` = SWRI_colours("terracotta", "amber", "yellow", "blue teal", "SWRI purple"),
-  `fern` = SWRI_colours("blue teal", "dark teal", "pale teal", "beige")
+  `fern` = SWRI_colours("blue teal", "dark teal", "pale teal", "beige"),
+  `ceramic` = SWRI_colours("blue teal", "terracotta", "beige", "pale teal")
 )
 
 #' SWRI_pal function
