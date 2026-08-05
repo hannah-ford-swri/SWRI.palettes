@@ -72,7 +72,14 @@ SWRI_palettes <- list(
   `mosaic` = SWRI_colours("mid purple", "blue teal", "dark yellow", "terracotta", "beige"),
   `solstice` = SWRI_colours("terracotta", "amber", "yellow", "blue teal", "SWRI purple"),
   `fern` = SWRI_colours("blue teal", "dark teal", "pale teal", "beige"),
-  `ceramic` = SWRI_colours("blue teal", "terracotta", "beige")
+  `ceramic` = SWRI_colours("blue teal", "terracotta", "beige"),
+  `resins` = c("Control" = "#f77f00",
+               "Sulfonic Na+" = "#b33b4c",
+               "Sulfonic H+" = "#f4546c",
+               "Iminodiacetic Na+" = "#34346c",
+               "Iminodiacetic H+" = "#727199",
+               "Purolite Sulfonic Na+" = "#ff98a7",
+               "Process Control" = "#2a9d8f")
 )
 
 #' SWRI_pal function
